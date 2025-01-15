@@ -1,0 +1,190 @@
+Time1
+Feature Creatinine
+Type of Test executed: Kruskal
+Result: Statistical Independent Clusters: 6.359041040350145e-07
+Result PostHoc Test:
+          1         2         3
+1  1.000000  0.000008  0.006080
+2  0.000008  1.000000  0.011466
+3  0.006080  0.011466  1.000000
+ 
+Time1
+Feature Potassium
+Type of Test executed: Kruskal
+Result: Statistical Independent Clusters: 0.013356276666385832
+Result PostHoc Test:
+          1         2         3
+1  1.000000  0.032216  0.051571
+2  0.032216  1.000000  0.628277
+3  0.051571  0.628277  1.000000
+ 
+Time2
+Feature Creatinine
+Type of Test executed: Kruskal
+Result: Statistical Independent Clusters: 3.9320273916130216e-07
+Result PostHoc Test:
+          1         2         3
+1  1.000000  0.000005  0.005927
+2  0.000005  1.000000  0.011466
+3  0.005927  0.011466  1.000000
+ 
+Time2
+Feature Potassium
+Type of Test executed: Kruskal
+Result: Statistical Independent Clusters: 0.04411540594154294
+Result PostHoc Test:
+          1         2         3
+1  1.000000  0.023590  0.474359
+2  0.023590  1.000000  0.474359
+3  0.474359  0.474359  1.000000
+ 
+Time3
+Feature Creatinine
+Type of Test executed: Kruskal
+Result: Statistical Independent Clusters: 3.086237489422084e-07
+Result PostHoc Test:
+          1         2         3
+1  1.000000  0.000003  0.006180
+2  0.000003  1.000000  0.011392
+3  0.006180  0.011392  1.000000
+ 
+Time3
+Feature Potassium
+Type of Test executed: Kruskal
+Result: Statistical Independent Clusters: 0.036200319899662124
+Result PostHoc Test:
+          1         2         3
+1  1.000000  0.022839  0.523748
+2  0.022839  1.000000  0.216560
+3  0.523748  0.216560  1.000000
+ 
+Time4
+Feature Creatinine
+Type of Test executed: Kruskal
+Result: Statistical Independent Clusters: 2.335945637928018e-07
+Result PostHoc Test:
+          1         2         3
+1  1.000000  0.000002  0.006110
+2  0.000002  1.000000  0.010739
+3  0.006110  0.010739  1.000000
+ 
+Time4
+Feature Potassium
+Type of Test executed: Anova
+Result: Statistical Independent Clusters: 0.032739751628021084
+Result PostHoc Test:
+          1         2         3
+1  1.000000  0.022011  0.470890
+2  0.022011  1.000000  0.168107
+3  0.470890  0.168107  1.000000
+ 
+Time5
+Feature Creatinine
+Type of Test executed: Kruskal
+Result: Statistical Independent Clusters: 1.1168599072034275e-07
+Result PostHoc Test:
+          1         2         3
+1  1.000000  0.000001  0.006128
+2  0.000001  1.000000  0.011245
+3  0.006128  0.011245  1.000000
+ 
+Time5
+Feature Potassium
+Type of Test executed: Anova
+Result: Statistical Independent Clusters: 0.0227787264020845
+Result PostHoc Test:
+          1         2         3
+1  1.000000  0.062951  0.163456
+2  0.062951  1.000000  0.108832
+3  0.163456  0.108832  1.000000
+ 
+Time6
+Feature Creatinine
+Type of Test executed: Kruskal
+Result: Statistical Independent Clusters: 2.2457100481363814e-07
+Result PostHoc Test:
+          1         2         3
+1  1.000000  0.000002  0.006117
+2  0.000002  1.000000  0.011245
+3  0.006117  0.011245  1.000000
+ 
+Time6
+Feature Potassium
+Type of Test executed: Kruskal
+Result: NON Statistical Independent Clusters: 0.24448820964547105
+ 
+Time7
+Feature Creatinine
+Type of Test executed: Kruskal
+Result: Statistical Independent Clusters: 1.962932298984013e-07
+Result PostHoc Test:
+          1         2         3
+1  1.000000  0.000002  0.006105
+2  0.000002  1.000000  0.010525
+3  0.006105  0.010525  1.000000
+ 
+Time7
+Feature Potassium
+Type of Test executed: Kruskal
+Result: NON Statistical Independent Clusters: 0.3319340576276089
+ 
+Time8
+Feature Creatinine
+Type of Test executed: Kruskal
+Result: Statistical Independent Clusters: 1.2984108487272247e-07
+Result PostHoc Test:
+          1         2         3
+1  1.000000  0.000001  0.006173
+2  0.000001  1.000000  0.011319
+3  0.006173  0.011319  1.000000
+ 
+Time8
+Feature Potassium
+Type of Test executed: Anova
+Result: Statistical Independent Clusters: 0.0073336786256201205
+Result PostHoc Test:
+          1         2         3
+1  1.000000  0.012379  0.099286
+2  0.012379  1.000000  0.043252
+3  0.099286  0.043252  1.000000
+ 
+Time9
+Feature Creatinine
+Type of Test executed: Kruskal
+Result: Statistical Independent Clusters: 2.263141783445177e-07
+Result PostHoc Test:
+          1         2         3
+1  1.000000  0.000002  0.006151
+2  0.000002  1.000000  0.011100
+3  0.006151  0.011100  1.000000
+ 
+Time9
+Feature Potassium
+Type of Test executed: Kruskal
+Result: Statistical Independent Clusters: 0.0018898387362593935
+Result PostHoc Test:
+          1         2         3
+1  1.000000  0.000828  0.440168
+2  0.000828  1.000000  0.168781
+3  0.440168  0.168781  1.000000
+ 
+Time10
+Feature Creatinine
+Type of Test executed: Kruskal
+Result: Statistical Independent Clusters: 8.299006248317926e-07
+Result PostHoc Test:
+          1         2         3
+1  1.000000  0.000010  0.006169
+2  0.000010  1.000000  0.011027
+3  0.006169  0.011027  1.000000
+ 
+Time10
+Feature Potassium
+Type of Test executed: Anova
+Result: Statistical Independent Clusters: 0.0018499944194965243
+Result PostHoc Test:
+          1         2         3
+1  1.000000  0.000917  0.587901
+2  0.000917  1.000000  0.133687
+3  0.587901  0.133687  1.000000
+ 
