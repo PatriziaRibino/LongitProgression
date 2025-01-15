@@ -1,4 +1,0 @@
-For K = 3 clusters: 
- The Silhouette Score is 0.6457709451795409
-The Calinski_harabasz Score for 3 is 70.04067025510382
-Davies_Bouldin_Score for 3 is 0.7433696577078243
